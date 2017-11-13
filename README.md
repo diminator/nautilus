@@ -1,6 +1,5 @@
 # Nautilus - Exploring ocean protocol
-
-![There could be dragons](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea#/media/File:Houghton_FC8_V5946_869ve_-_Verne,_frontispiece.jpg)
+[There could be dragons](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
 
 ## Project Goal
 
@@ -19,11 +18,7 @@ The actors in a public network can be benign, byzantine or sybil entities. The n
 
 > **Functions in absence of it's creators**
 
-Incentives rezard good behavior. Such rewards can be claimed as a token by proving that work has been done. 
-
-Work is a physical cost such as energy, infrastructure and operations.
-
-Proofs of that work need to be unforgeable and publicly verifiable  
+The system incentivizes good behavior by rewarding it using proofs, claims, tokens. Such rewards can be claimed as a token by proving that work has been done. Work is a physical cost such as energy, infrastructure and operations. Proofs of the work need to be unforgeable and publicly verifiable.
 
 ### utility
 
