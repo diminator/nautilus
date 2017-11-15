@@ -24,7 +24,7 @@ curiosity.](https://news.ycombinator.com/newsguidelines.html)
 - Crypto-economic primitives
     - https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7
     - https://soundcloud.com/rhys-lindmark/18-mike-goldin-adchain-token-curated-registries-an-emerging-cryptoeconomic-primitive
-    - Mike's crypto system manifesto [can't find it currently]
+    - [Mike's crypto system manifesto](https://docs.google.com/document/d/1TcceAsBlAoFLWSQWYyhjmTsZCp0XqRhNdGMb6JbASxc/edit)
 - DApps
     - https://www.orchidprotocol.com/whitepaper.pdf
     - https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881
