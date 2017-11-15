@@ -39,6 +39,7 @@ at yourself or another community member may be reported by contacting a
 project maintainer at
 
 - tim.daubenschuetz@gmail.com
+- dimi.dejonghe@gmail.com
 - please add yourself on voluntary basis if you'd like
 
 All complaints will be reviewed and investigated and will result in a response
