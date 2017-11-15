@@ -1,6 +1,11 @@
 # Nautilus - Exploring ocean protocol
 [There could be dragons](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
 
+## Documents
+
+- [Code of Conduct](https://github.com/diminator/nautilus/blob/master/CODE_OF_CONDUCT.md)
+- [Research](https://github.com/diminator/nautilus/tree/master/research)
+
 ## Project Goal
 
 Research on useful primitives to build a decentralized data economy for the common goods.
