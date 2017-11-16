@@ -40,6 +40,8 @@ curiosity.](https://news.ycombinator.com/newsguidelines.html)
     - https://medium.com/towards-data-science/why-openmined-is-becoming-a-role-model-for-open-source-projects-ae11749fc577
 - Visionary
     - https://www.cypherpunks.to/erights/talks/pisa/paper/digital-path.pdf
+- Data Structures
+    - [Cryptographic Data Structures](https://blog.bren2010.io/2015/04/07/data-structures.html)
 
 
 ### Projects
