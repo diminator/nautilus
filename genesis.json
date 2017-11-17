@@ -1,4 +1,10 @@
 {
     "name": "Ocean protocol",
-    "description": "A decentralized data economy for the common goods"
+    "description": "A decentralized data economy for the common goods",
+    "design_goals": [
+        "Anti-fragility: Ocean's governance should become stronger through disorder",
+        "Decentralize the errors: Ocean shouldn't have any centralized points of failure",
+        "George Orwell's Animal Farm: Ocean's creators do not become its new masters",
+        "Spread the meme among good actors. Enforce the meme against bad actors and yourself."
+    ]
 }
