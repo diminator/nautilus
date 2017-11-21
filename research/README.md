@@ -86,6 +86,10 @@ curiosity.](https://news.ycombinator.com/newsguidelines.html)
         - http://www.catb.org/jargon/html/H/hacker-ethic.html
         - https://www.activism.net/cypherpunk/crypto-anarchy.html
         - https://www.activism.net/cypherpunk/
+        - http://queer-code.org/coc.html
+        - https://www.ncbi.nlm.nih.gov/pubmed/28334786
+        - https://arxiv.org/abs/1703.09207
+        - http://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1153123?src=recsys&journalCode=rics20
         - [looking for more links of very very robust software governance
           potentially being able to fight off governments and large
           corporations]
