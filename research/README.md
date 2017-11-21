@@ -43,6 +43,9 @@ curiosity.](https://news.ycombinator.com/newsguidelines.html)
     - https://www.cypherpunks.to/erights/talks/pisa/paper/digital-path.pdf
 - Data Structures
     - [Cryptographic Data Structures](https://blog.bren2010.io/2015/04/07/data-structures.html)
+- Decentralization:
+    - https://petertodd.org/2016/multiple-implementations-consensus-systems
+    - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 - Governance:
     - Interesting links for governance (taken from
       [here](https://github.com/diminator/nautilus/pull/5))
