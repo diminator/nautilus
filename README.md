@@ -1,6 +1,13 @@
 # Nautilus - Exploring ocean protocol
 [There could be dragons](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
 
+
+## The meme
+
+If you want this movement to become stronger, take a look at genesis.json and
+please install the git hooks you'll find located in `githooks` in your
+development machine to enforce the meme on yourself and others.
+
 ## Documents
 
 - [Code of Conduct](https://github.com/diminator/nautilus/blob/master/CODE_OF_CONDUCT.md)
